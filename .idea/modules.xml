@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../../../D/JOS/HR/wifi/Docker/LAB/docker_compose_swarm/.idea/docker_compose_swarm.iml" filepath="$PROJECT_DIR$/../../../../D/JOS/HR/wifi/Docker/LAB/docker_compose_swarm/.idea/docker_compose_swarm.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/pythonProject1.iml" filepath="$PROJECT_DIR$/.idea/pythonProject1.iml" />
     </modules>
   </component>
